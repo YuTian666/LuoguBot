@@ -1,7 +1,7 @@
 from http import HTTPStatus
 import dashscope
 
-dashscope.api_key = "sk-5f813c697a3d4d9bbcbb5fafce82fd55"
+dashscope.api_key = "sk-xxx"
 def tongyi(que):
     response = dashscope.Generation.call(
         model=dashscope.Generation.Models.qwen_turbo,
