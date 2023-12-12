@@ -15,7 +15,7 @@ first_id = "chatcmpl-7FunqjtgiPrQhBR5hnOoOlqDsdxZr"
 sendmslist=[]
 sendlist = {}
 ####
-login_cookie = '__client_id=e17cfd5ba6b3bb7fec91089554078748175850ca; login_referer=https%3A%2F%2Fwww.luogu.com.cn%2F; _uid=1154310'
+login_cookie = '__client_id=xxx; login_referer=https%3A%2F%2Fwww.luogu.com.cn%2F; _uid=1154310'
 login_uid=1154310
 csrf_token = '自动分配'
 ad = '【欢迎加入 ToJudging (todoing.top:7677),开发组招人中~ 欢迎合作~】'
